@@ -113,7 +113,9 @@ a:hover {
   height: 100%;
   display: table;
 }
-
+.devlogo{
+Height:100px;
+Width:100px;}
 .table-cell {
   display: table-cell;
   vertical-align: middle;
